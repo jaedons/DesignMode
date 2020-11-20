@@ -10,7 +10,7 @@ public abstract class Duck {
 	/** 叫 */
 	IQuackBehavior quackBehavior;
 	
-	/**外貌*/
+	/** 外貌 */
 	public abstract void display();
 	
 	public void performFly() {
